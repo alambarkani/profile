@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:wght@300&display=swap');
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    /* background-color: red; */
+}
+
+.col-lg-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: rebeccapurple; */
+}
+
+h1{
+    /* background-color: aqua; */
+    font-family: 'Cinzel', serif;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
